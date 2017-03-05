@@ -7,6 +7,6 @@ This is the course project of "Getting and Cleaning Data" from Coursera.
 * To run the R code, the data should be downloaded, unziped, and put in the same folder as the code, without file names altered.
 
 ## Files
-* 'run_analysis.R' is the code to read and clean data
-* 'codeBook.md' describes the variables
-* 'tidyData.txt' is the clean data resulting from running the R code
+* `run_analysis.R` is the code to read and clean data
+* `codeBook.md` describes the variables
+* `tidyData.txt` is the clean data resulting from running the R code
