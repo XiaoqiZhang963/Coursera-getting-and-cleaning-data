@@ -2,7 +2,7 @@
 This code book describes the variables in `tidyData.txt`.
 
 ## Introduction
-The original data was obtained from experiments where a group of 30 volunteers performing six activities.
+The original data was obtained from experiments where a group of 30 volunteers performed six activities.
 The sensors in smartphones worn by the volunteers captured different movement features.
 The file `tidyData.txt` results from analyzing the original data by `run_analysis.R`. It contains the averages of feature measurements for each activity and each subject.
 
